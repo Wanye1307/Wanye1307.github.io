@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 900" role="img" aria-labelledby="title desc">
+  <title id="title">Profile photo placeholder for Qi Wu</title>
+  <desc id="desc">A neutral warm gray portrait placeholder with the initials QW.</desc>
+  <rect width="720" height="900" fill="#e8e4dc"/>
+  <circle cx="360" cy="325" r="142" fill="#c9c4ba"/>
+  <path d="M120 900c15-220 110-345 240-345s225 125 240 345" fill="#c9c4ba"/>
+  <circle cx="360" cy="450" r="300" fill="none" stroke="#1f4d48" stroke-width="4" opacity=".22"/>
+  <text x="360" y="820" text-anchor="middle" font-family="Georgia, serif" font-size="70" letter-spacing="10" fill="#1f4d48">QW</text>
+</svg>
