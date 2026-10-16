@@ -17,6 +17,11 @@ cv:
         studyType: Undergraduate Student
         start_date: 2023
         end_date: present
+      - institution: University of California, Berkeley
+        location: Berkeley, CA, USA
+        studyType: Exchange Undergraduate Student
+        start_date: 2026-01
+        end_date: 2026-05
 
     Research Interests:
       - name: Multimodal Intelligence

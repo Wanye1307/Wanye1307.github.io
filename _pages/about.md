@@ -37,6 +37,9 @@ I am particularly interested in trustworthy multimodal intelligence: models that
 **University of Science and Technology of China (USTC)**  
 Undergraduate Student, 2023–Present
 
+**University of California, Berkeley (UC Berkeley)**<br>
+Exchange Undergraduate Student, January–May 2026
+
 ## Beyond research
 
 Outside research, I maintain a [personal blog](/blog/) about books, films, literature, and personal reflections. I also love music: I began studying classical piano at six and play keyboard in a campus rock band.
