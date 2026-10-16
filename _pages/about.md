@@ -32,6 +32,15 @@ I am particularly interested in trustworthy multimodal intelligence: models that
 - **Trustworthy AI** — uncertainty estimation, calibration, evaluation, robustness, and the reliability of modern AI systems.
 - **AI for Healthcare** — responsible development and evaluation of multimodal AI systems for high-stakes medical applications.
 
+## Research experience
+
+**Trustworthy Medical Vision-Language Models** — USTC<br>
+Advisor: Prof. Qingsong Yao · January 2026–Present<br>
+Projects: _Counterfactual Answer Sensitivity for Reliable Medical VLM Evaluation_; _ClinEviD: Decision-Token Evidence Discrepancy for Medical VQA Uncertainty Quantification_
+
+**The Exploration of Preference Optimization in LLMs for Recommendation Systems** — USTC<br>
+Advisor: Prof. Xiangnan He · January–June 2025
+
 ## Education
 
 **University of Science and Technology of China (USTC)**  
