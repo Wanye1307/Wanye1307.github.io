@@ -12,7 +12,7 @@ profile:
     <p>University of Science and Technology of China</p>
     <p>Hefei, China</p>
 
-selected_papers: false
+selected_papers: true
 social: true
 
 announcements:
