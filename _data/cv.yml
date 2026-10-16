@@ -1,0 +1,35 @@
+cv:
+  name: Qi Wu
+  label: Undergraduate Researcher
+  email: qi_wu@mail.ustc.edu.cn
+  location: Hefei, China
+  image: ""
+  summary: Undergraduate researcher interested in multimodal intelligence, trustworthy AI, and AI for healthcare.
+
+  social_networks:
+    - network: GitHub
+      username: wanye1307
+
+  sections:
+    Education:
+      - institution: University of Science and Technology of China (USTC)
+        location: Hefei, China
+        studyType: Undergraduate Student
+        start_date: 2023
+        end_date: present
+
+    Research Interests:
+      - name: Multimodal Intelligence
+        icon: fa-solid fa-layer-group
+        keywords: Vision-Language Models, Multimodal LLMs, Reasoning
+      - name: Trustworthy AI
+        icon: fa-solid fa-shield-halved
+        keywords: Uncertainty Estimation, Calibration, Robustness, Reliability
+      - name: AI for Healthcare
+        icon: fa-solid fa-heart-pulse
+        keywords: Medical AI, Multimodal Learning, Evaluation
+
+    Interests:
+      - name: Music
+        icon: fa-solid fa-music
+        keywords: Classical Piano, Keyboard, Rock Band
