@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://wanye1307.github.io/sitemap.xml
