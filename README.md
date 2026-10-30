@@ -11,7 +11,7 @@ This site uses the official al-folio v1.x Jekyll starter and is published at <ht
 - Contact and profile links: `_data/socials.yml`
 - Publications: `_bibliography/papers.bib`
 - Profile photo: `assets/img/selfie.jpg`
-- Downloadable CV: `assets/pdf/CV_qiwu.pdf`
+- Downloadable CV: [Google Drive](https://drive.google.com/file/d/1iiDKsqKjID4GVzjJ7LyvH2ZojxbXl8po/view?usp=drive_link)
 
 The separate personal blog remains available at <https://wanye1307.github.io/blog/>.
 
