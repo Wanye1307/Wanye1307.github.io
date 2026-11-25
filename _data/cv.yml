@@ -19,6 +19,8 @@ cv:
         start_date: 2023-09
         end_date: present
         score: "GPA: 3.64/4.3 (87/100)"
+        highlights:
+          - "GPA: 3.64/4.3 (87/100)"
       - institution: University of California, Berkeley
         location: Berkeley, CA, USA
         area: Exchange Program
@@ -26,13 +28,15 @@ cv:
         start_date: 2026-01
         end_date: 2026-05
         score: "GPA: 4.0/4.0"
+        highlights:
+          - "GPA: 4.0/4.0"
 
-    Research Interests:
+    Interests:
       - name: Research Areas
         icon: fa-solid fa-microscope
         keywords: "Trustworthy Artificial Intelligence, AI for Healthcare, Medical Vision-Language Models, Uncertainty Quantification, LLM Alignment and Preference Optimization, Multimodal Large Language Models, Agents"
 
-    Publications and Manuscripts Under Review:
+    Publications:
       - title: Rethinking Closed-Ended Medical VLM Evaluation - From Template Shortcuts to Counterfactual Answer Sensitivity
         authors:
           - "Qi Wu*"
@@ -62,7 +66,7 @@ cv:
         releaseDate: 2027
         summary: "Under review. * Equal contribution."
 
-    Research Experience:
+    Experience:
       - company: University of Science and Technology of China (USTC)
         position: Improving Visual Grounding in Medical Vision-Language Models
         location: Hefei, China
@@ -99,24 +103,19 @@ cv:
           - Explored LLM preference optimization to improve recommendation-system performance.
           - Explored negative-sampling strategies for LLM-based recommendation systems.
 
-    Teaching Experience:
       - company: University of Science and Technology of China (USTC)
         position: Teaching Assistant, Computer Programming (CS1003)
         location: Hefei, China
-        date: Fall 2026
-        summary: "Instructor: Prof. Hu Si"
+        start_date: 2026-09
+        end_date: 2026-12
+        summary: "Fall 2026 · Instructor: Prof. Hu Si"
         highlights:
           - Served as one of two teaching assistants for a 3-credit undergraduate course with 90 students.
           - Graded assignments and labs.
           - Conducted review sessions before exams.
           - Received an Excellent performance rating from the course instructor.
 
-    Core Courses:
-      - name: Coursework
-        icon: fa-solid fa-book
-        keywords: "Introduction to Computing Systems A, Discrete Mathematics, Probability Theory and Mathematical Statistics, Linear Algebra, Mathematical Analysis, Introduction to Modern Biostatistical Theory and Practice"
-
-    Honors and Awards:
+    Awards:
       - title: Outstanding Student Scholarship, Silver Award
         authors:
           - University of Science and Technology of China
@@ -134,6 +133,9 @@ cv:
         awarder: Top 20%
 
     Skills:
+      - name: Core Courses
+        icon: fa-solid fa-book
+        keywords: "Introduction to Computing Systems A, Discrete Mathematics, Probability Theory and Mathematical Statistics, Linear Algebra, Mathematical Analysis, Introduction to Modern Biostatistical Theory and Practice"
       - name: Programming
         icon: fa-solid fa-code
         keywords: "C, Python (PyTorch), LaTeX, R, MATLAB"
