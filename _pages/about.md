@@ -22,7 +22,7 @@ latest_posts:
   enabled: false
 ---
 
-I am an undergraduate student at the **University of Science and Technology of China (USTC)**. My research interests sit at the intersection of multimodal learning, reliable machine learning, and medical artificial intelligence.
+I am an undergraduate student at the **University of Science and Technology of China (USTC)**. My research interests include trustworthy artificial intelligence, AI for healthcare, medical vision-language models, uncertainty quantification, LLM alignment and preference optimization, multimodal large language models, and agents.
 
 I am particularly interested in trustworthy multimodal intelligence: models that can connect visual and linguistic evidence, express uncertainty appropriately, and support careful evaluation in real-world applications.
 
@@ -34,8 +34,11 @@ I am particularly interested in trustworthy multimodal intelligence: models that
 
 ## Research experience
 
-**Trustworthy Medical Vision-Language Models** — USTC<br>
-Advisor: Prof. Qingsong Yao · January 2026–Present<br>
+**Improving Visual Grounding in Medical Vision-Language Models** — USTC<br>
+Advisor: Prof. S. Kevin Zhou · September 2026–Present
+
+**Trustworthy Medical Vision-Language Models** — RUC<br>
+Advisor: Prof. Qingsong Yao · January–September 2026<br>
 Projects: _Counterfactual Answer Sensitivity for Reliable Medical VLM Evaluation_; _ClinEviD: Decision-Token Evidence Discrepancy for Medical VQA Uncertainty Quantification_
 
 **The Exploration of Preference Optimization in LLMs for Recommendation Systems** — USTC<br>

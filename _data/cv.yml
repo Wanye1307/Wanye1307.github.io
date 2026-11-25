@@ -4,7 +4,7 @@ cv:
   email: qi_wu@mail.ustc.edu.cn
   location: Hefei, China
   image: ""
-  summary: Undergraduate researcher interested in multimodal intelligence, trustworthy AI, and AI for healthcare.
+  summary: Undergraduate researcher working on trustworthy artificial intelligence, medical vision-language models, uncertainty quantification, and multimodal learning.
 
   social_networks:
     - network: GitHub
@@ -14,27 +14,132 @@ cv:
     Education:
       - institution: University of Science and Technology of China (USTC)
         location: Hefei, China
-        studyType: Undergraduate Student
-        start_date: 2023
+        area: Data Science
+        studyType: Bachelor
+        start_date: 2023-09
         end_date: present
+        score: "GPA: 3.64/4.3 (87/100)"
       - institution: University of California, Berkeley
         location: Berkeley, CA, USA
+        area: Exchange Program
         studyType: Exchange Undergraduate Student
         start_date: 2026-01
         end_date: 2026-05
+        score: "GPA: 4.0/4.0"
 
     Research Interests:
-      - name: Multimodal Intelligence
-        icon: fa-solid fa-layer-group
-        keywords: Vision-Language Models, Multimodal LLMs, Reasoning
-      - name: Trustworthy AI
-        icon: fa-solid fa-shield-halved
-        keywords: Uncertainty Estimation, Calibration, Robustness, Reliability
-      - name: AI for Healthcare
-        icon: fa-solid fa-heart-pulse
-        keywords: Medical AI, Multimodal Learning, Evaluation
+      - name: Research Areas
+        icon: fa-solid fa-microscope
+        keywords: "Trustworthy Artificial Intelligence, AI for Healthcare, Medical Vision-Language Models, Uncertainty Quantification, LLM Alignment and Preference Optimization, Multimodal Large Language Models, Agents"
 
-    Interests:
-      - name: Music
-        icon: fa-solid fa-music
-        keywords: Classical Piano, Keyboard, Rock Band
+    Publications and Manuscripts Under Review:
+      - title: Rethinking Closed-Ended Medical VLM Evaluation - From Template Shortcuts to Counterfactual Answer Sensitivity
+        authors:
+          - "Qi Wu*"
+          - "X. Liu*"
+          - A. Wang
+          - R. Wang
+          - W. Chen
+          - W. Wang
+          - Q. Yao
+        publisher: IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
+        releaseDate: 2026
+        url: https://arxiv.org/abs/2611.29592
+        summary: "Accepted. * Equal contribution."
+      - title: Clinical Decision-Token Evidence Discrepancy for Medical VQA Uncertainty Quantification
+        authors:
+          - "X. Liu*"
+          - "Qi Wu*"
+          - A. Wang
+          - M. Li
+          - W. Chen
+          - W. Wang
+          - R. Wang
+          - H. Lai
+          - S. K. Zhou
+          - Q. Yao
+        publisher: Submitted to IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+        releaseDate: 2027
+        summary: "Under review. * Equal contribution."
+
+    Research Experience:
+      - company: University of Science and Technology of China (USTC)
+        position: Improving Visual Grounding in Medical Vision-Language Models
+        location: Hefei, China
+        start_date: 2026-09
+        end_date: present
+        summary: "Advisor: Prof. S. Kevin Zhou"
+        highlights:
+          - Constructing a counterfactual medical VQA dataset to assess whether model responses are grounded in clinically relevant visual evidence rather than linguistic or answer-choice shortcuts.
+          - Training medical VLMs with supervised fine-tuning (SFT) and counterfactual direct preference optimization (DPO) to strengthen evidence-sensitive prediction and robustness under controlled visual interventions.
+      - company: Renmin University of China (RUC)
+        position: Trustworthy Medical Vision-Language Models
+        location: Beijing, China
+        start_date: 2026-01
+        end_date: 2026-09
+        summary: "Advisor: Prof. Qingsong Yao"
+        highlights:
+          - "**Counterfactual Answer Sensitivity for Reliable Medical VLM Evaluation**"
+          - Identified stable wrongness in closed-ended medical VLMs, where models produce confident but incorrect predictions despite corrupted or missing visual evidence.
+          - Proposed Counterfactual Answer Sensitivity (CAS), a vision-grounded uncertainty framework using counterfactual visual interventions and evidence sensitivity features for reliability assessment.
+          - Evaluated across 7 VLMs and 3 VQA benchmarks (VQA-RAD, SLAKE, VQA-Med-2019), achieving +0.150 AUROC improvement over HAC-based uncertainty methods.
+          - "**ClinEviD: Decision-Token Evidence Discrepancy for Medical VQA Uncertainty Quantification**"
+          - Identified decision-token dilution in medical VQA uncertainty estimation, where response-level aggregation overlooks critical clinical tokens.
+          - Developed ClinEviD, a training-free, single-pass framework that localizes evidential uncertainty to decision-bearing tokens through token-level evidence discrepancy modeling.
+          - Designed token-level evidence discrepancy modeling by contrasting generated clinical tokens with their strongest competing alternatives, followed by top-k aggregation and lightweight logistic calibration for answer-level risk estimation.
+          - Evaluated on 7 VLMs, 3 medical VQA datasets, and 42 model-dataset settings, achieving 0.7535 mean AUROC, +0.0798 AUROC over HAC, and 18x lower inference cost.
+      - company: University of Science and Technology of China (USTC)
+        position: The Exploration of Preference Optimization in LLMs for Recommendation Systems
+        location: Hefei, China
+        start_date: 2025-01
+        end_date: 2025-06
+        summary: "Advisor: Prof. Xiangnan He"
+        highlights:
+          - Explored and optimized alignment and preference optimization methods, including PPO, DPO, and SimPO.
+          - Explored LLM preference optimization to improve recommendation-system performance.
+          - Explored negative-sampling strategies for LLM-based recommendation systems.
+
+    Teaching Experience:
+      - company: University of Science and Technology of China (USTC)
+        position: Teaching Assistant, Computer Programming (CS1003)
+        location: Hefei, China
+        date: Fall 2026
+        summary: "Instructor: Prof. Hu Si"
+        highlights:
+          - Served as one of two teaching assistants for a 3-credit undergraduate course with 90 students.
+          - Graded assignments and labs.
+          - Conducted review sessions before exams.
+          - Received an Excellent performance rating from the course instructor.
+
+    Core Courses:
+      - name: Coursework
+        icon: fa-solid fa-book
+        keywords: "Introduction to Computing Systems A, Discrete Mathematics, Probability Theory and Mathematical Statistics, Linear Algebra, Mathematical Analysis, Introduction to Modern Biostatistical Theory and Practice"
+
+    Honors and Awards:
+      - title: Outstanding Student Scholarship, Silver Award
+        authors:
+          - University of Science and Technology of China
+        date: 2024
+        awarder: Top 10%
+      - title: Chinese Mathematics Competitions for College Students (CMC), Second Prize
+        authors:
+          - Chinese Mathematical Society
+        date: 2024
+        awarder: CMC
+      - title: Outstanding Student Scholarship, Bronze Award
+        authors:
+          - University of Science and Technology of China
+        date: 2026
+        awarder: Top 20%
+
+    Skills:
+      - name: Programming
+        icon: fa-solid fa-code
+        keywords: "C, Python (PyTorch), LaTeX, R, MATLAB"
+      - name: Tools
+        icon: fa-solid fa-screwdriver-wrench
+        keywords: "CAD, Origin"
+      - name: Languages
+        icon: fa-solid fa-language
+        keywords: "English (Fluent), Chinese (Native)"
